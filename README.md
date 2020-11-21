@@ -526,6 +526,8 @@ Principles
 - https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/
 - https://www.buildingmicrofrontends.com
 
+https://docs.google.com/presentation/d/1EWcJlSxvzwwjGNH7UrXmGHS7ofZPv_OVxzKHo-A4Zzw/edit?usp=drivesdk
+
 ## The Microfrontend Revolution: Using Webpack 5 Module Federation with Angular, Presented by: Manfred Steyer
 
 The implementation of micro frontends has so far been anything but easy. Since common frameworks and build tools didn’t even know this idea, you had to dig into the tricks bag.
